@@ -1,0 +1,5 @@
+platform :ios, '11.0'
+
+target 'CocoaPodsTest' do
+  pod 'my-pod', path: '../my-pod'
+end
